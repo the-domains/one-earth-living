@@ -1,0 +1,28 @@
+name: Center for One Earth Living
+favicon: null
+layout_spectrum: 0.8952391629572958
+typography_spectrum: 0.6012769031804055
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.3035146782640368
+  lightness: 0.2529023354873061
+  saturation: 0.3111665491014719
+  rhythmicContrast: 0.8465235598850995
+purpose: []
